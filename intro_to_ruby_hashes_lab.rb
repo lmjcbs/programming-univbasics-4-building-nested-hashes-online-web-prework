@@ -24,9 +24,9 @@ def monopoly_with_third_tier
 			:pieces => 4,
 			:rent_in_dollars => {
 				:symbol => "1",
-				:2 => "2",
-				:3 => "3",
-				:4 => "4"
+				:sym => "2",
+				:symee => "3",
+				:syme => "4"
 			}
 		}
 	}
