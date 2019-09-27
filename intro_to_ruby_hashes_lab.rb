@@ -27,7 +27,8 @@ def monopoly_with_third_tier
 				:sym => "2",
 				:symee => "3",
 				:syme => "4"
-			}
+			},
+			names: => "sue"
 		}
 	}
   # When you start writing the implementation for this method, copy the Hash
