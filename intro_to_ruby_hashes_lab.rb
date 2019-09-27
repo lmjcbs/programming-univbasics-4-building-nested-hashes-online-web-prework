@@ -29,10 +29,10 @@ def monopoly_with_third_tier
 				:syme => "4"
 			},
 			:names => {
-				:hi,
-				:hii,
-				:hiii,
-				:hiiii
+				:hi => "1",
+				:hii => "2",
+				:hiii => "3",
+				:hiiii => "4"
 			}
 		}
 	}
